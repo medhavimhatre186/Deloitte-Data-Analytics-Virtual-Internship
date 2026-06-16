@@ -1,20 +1,48 @@
-Deloitte Data Analytics Virtual Experience Program | Forage | June 2026
+# Deloitte Data Analytics Virtual Experience Program | Forage | June 2026
 
-Completed Deloitte's virtual internship focused on data analytics, business intelligence, and data-driven decision making.
+Completed Deloitte's virtual internship covering Data Analytics, Data Visualization, and Business Intelligence.
 
-📊 Task 1: Manufacturing Downtime Analysis – Tableau
-Developed an interactive Tableau dashboard to analyze factory telemetry data and identify downtime patterns across factories and machine types. Key insight: Daikibo Factory Seiko recorded the highest downtime among all factories.
+---
 
-📈 Task 2: Employee Compensation Equality Analysis – Excel
-Analyzed employee equality scores and classified them into Fair, Unfair, and Highly Discriminative categories using Excel. Identified compensation fairness patterns across different job roles and factories.
+## 📊 Task 1: Manufacturing Downtime Analysis – Tableau
 
-🏆 Skills Demonstrated
-• Tableau Dashboard Development
-• Microsoft Excel
-• Data Analysis
-• Data Visualization
-• Business Intelligence
-• Analytical Problem Solving
-• Insight Generation
+Built an interactive Tableau dashboard to identify downtime patterns across factories and machine types.
 
-#Deloitte #Forage #DataAnalytics #Tableau #Excel #BusinessIntelligence
+**Key Finding:** Daikibo Factory Seiko recorded the highest downtime among all factories.
+
+### Skills Applied
+
+* Tableau Dashboard Development
+* Data Visualization
+* Data Analysis
+* Business Intelligence
+
+---
+
+## 📈 Task 2: Employee Compensation Equality Analysis – Excel
+
+Analyzed employee equality scores and classified them into Fair, Unfair, and Highly Discriminative categories using Excel.
+
+**Key Finding:** Identified compensation fairness patterns across factories and job roles through equality score classification.
+
+### Skills Applied
+
+* Microsoft Excel
+* Data Classification
+* Data Analysis
+* Business Rule Implementation
+
+---
+
+## 🏆 Skills Demonstrated
+
+* Tableau
+* Microsoft Excel
+* Data Visualization
+* Data Analytics
+* Business Intelligence
+* Dashboard Development
+* Analytical Thinking
+* Insight Generation
+
+#Deloitte #Forage #DataAnalytics #Tableau #Excel
