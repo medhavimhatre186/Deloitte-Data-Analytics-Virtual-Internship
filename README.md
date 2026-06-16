@@ -2,7 +2,7 @@
 
 Completed Deloitte's virtual internship covering Data Analytics, Data Visualization, and Business Intelligence.
 
----
+
 
 ## 📊 Task 1: Manufacturing Downtime Analysis – Tableau
 
@@ -17,7 +17,7 @@ Built an interactive Tableau dashboard to identify downtime patterns across fact
 * Data Analysis
 * Business Intelligence
 
----
+
 
 ## 📈 Task 2: Employee Compensation Equality Analysis – Excel
 
@@ -32,7 +32,7 @@ Analyzed employee equality scores and classified them into Fair, Unfair, and Hig
 * Data Analysis
 * Business Rule Implementation
 
----
+
 
 ## 🏆 Skills Demonstrated
 
