@@ -19,7 +19,7 @@ Built an interactive Tableau dashboard to identify downtime patterns across fact
 
 
 
-## 📈 Task 2: Employee Compensation Equality Analysis – Excel
+## 📈 Task 2: Forensic Data Analysis – Excel
 
 Analyzed employee equality scores and classified them into Fair, Unfair, and Highly Discriminative categories using Excel.
 
